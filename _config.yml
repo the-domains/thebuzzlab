@@ -1,6 +1,6 @@
-name: thebuzzlab.
+name: The Buzz Lab
 favicon: null
-layout_spectrum: 0.20152445905841887
+layout_spectrum: 1
 typography_spectrum: 0.6484820276964456
 title: Video. Strategy. Science.
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ff7200'
-    - '#e4e4e4'
-    - '#181818'
-    - '#713200'
-    - '#afafaf'
-  brandStrength: 0.5625
+    - '#f0feff'
+    - '#211b3d'
+    - '#de9c6a'
+    - '#90394a'
+    - '#92676e'
+  brandStrength: 0.6875
   lightness: 0.45022325520403683
   saturation: 0.5625
   rhythmicContrast: 0.5
