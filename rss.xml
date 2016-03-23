@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thebuzzlab.]]></title>
         <description><![CDATA[thebuzzlab.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thebuzzlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 04:18:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 04:27:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thebuzzlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Video. Strategy. Science.</p>]]></description>
-            <link>undefinedvideo-strategy-science/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49c5817-f5be-483f-87e1-e7c58194b9da.jpg">]]></description>
+            <link>https://thegrid.ai/thebuzzlab/video-strategy-science/index.html</link>
             <guid isPermaLink="false">92da8278-129a-43e1-8af0-4f40e394bf93</guid>
-            <pubDate>Wed, 23 Mar 2016 04:18:23 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 04:26:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
